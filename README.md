@@ -46,7 +46,7 @@ This project explores a novel public-key encryption method for securing communic
 
 [![](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=%233776AB&link=python)](#) [![](https://img.shields.io/badge/jupyter-white?style=flat&logo=jupyter&logoColor=%23F37626&link=jupyter)](#)
 
-
+##### [Link to GitHub Repo](https://github.com/amruthapurnavadrevu/Public-Key-Encryption-Implementation)
 
 
 
