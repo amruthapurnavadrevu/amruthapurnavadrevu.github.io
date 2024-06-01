@@ -4,8 +4,6 @@
 
 This project combats fake news with Natural Language Processing (NLP). It utilizes efficient transformer models like DistilBERT and ELECTRA to classify news articles as real or fake. By evaluating with metrics like accuracy and using explainable AI, the project ensures a powerful tool in the fight against misinformation.
 
-<img src="https://github.com/amruthapurnavadrevu/amruthapurnavadrevu.github.io/blob/main/Images/Fake%20News.png" alt="Fake News" width="250" />
-
 <p align="center">
     <img src="https://github.com/amruthapurnavadrevu/amruthapurnavadrevu.github.io/blob/main/Images/Fake%20News.png" alt="Fake News" width="250"/>
 </p>
