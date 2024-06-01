@@ -1,6 +1,6 @@
 # Selected Projects
 
-## Fake News Classification using NLP
+## [Fake News Classification using NLP](https://github.com/amruthapurnavadrevu/Fake-News-Classification)
 
 This project combats fake news with Natural Language Processing (NLP). It utilizes efficient transformer models like DistilBERT and ELECTRA to classify news articles as real or fake. By evaluating with metrics like accuracy and using explainable AI, the project ensures a powerful tool in the fight against misinformation.
 
