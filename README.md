@@ -2,6 +2,18 @@
 
 ---
 
+## Chat with Your Documents - PDF AI Assistant
+
+This Streamlit-powered app allows you to upload PDF documents and interact with them conversationally using an LLM-based chatbot. The app uses the Ollama LLM, HuggingFace embeddings, and LlamaIndex for contextual search and response generation.
+
+<p align="center">
+    <img src="Images/chat-with-your-doc.avif" alt="Chat with your Documents" width="250"/>
+</p>
+
+##### [Link to GitHub Repo](https://github.com/amruthapurnavadrevu/chat-with-your-documents)
+
+---
+
 ## Fake News Classification using NLP
 
 This project combats fake news with Natural Language Processing (NLP). It utilizes efficient transformer models like DistilBERT and ELECTRA to classify news articles as real or fake. By evaluating with metrics like accuracy and using explainable AI, the project ensures a powerful tool in the fight against misinformation.
